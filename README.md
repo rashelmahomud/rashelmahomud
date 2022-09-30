@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rashelmahmudraj1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IQ_a7x_w0vQwbbImxRyG3T7K3joMQgDK/view?usp=sharing](https://drive.google.com/file/d/1IQ_a7x_w0vQwbbImxRyG3T7K3joMQgDK/view?usp=sharing)
+- 📄 Know about my experiences Resume [https://drive.google.com/file/d/10QCT0YoQvoqXa7r2p28DKgMZUio71LUN/view?usp=sharing](https://drive.google.com/file/d/10QCT0YoQvoqXa7r2p28DKgMZUio71LUN/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
