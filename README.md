@@ -6,8 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rashelmahmudra1" target="blank"><img src="https://img.shields.io/twitter/follow/rashelmahmudra1?logo=twitter&style=for-the-badge" alt="rashelmahmudra1" /></a> </p>
 
+- 🔭 I’m currently working on [Job-Internship (Super-Project)](https://github.com/rashelmahomud/job-intenship)
 - 🔭 I’m currently working on [Webb School (Team-project)](https://webb-school-mission-2022.vercel.app/)
-- 🔭 I’m currently working on [Webb School (Personal-Project)](https://lezenda-orange-8k2l.vercel.app/)
+
 
 
 
