@@ -1,5 +1,6 @@
-<img alt="codding" src="https://i.ibb.co/HTKP16N/Grey-and-Black-Professional-Linked-In-Article-Cover-Image-1.png">
-<h1 align="center">Hi 👋, I'm Md Rashel</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Rashel</h1>
+<img alt="codding" src="https://www.canva.com/design/DAGalpgwEeE/qRMN0QW9XPJmREzePvRzqg/view?utm_content=DAGalpgwEeE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8329260b81">
+
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashelmahomud&label=Profile%20views&color=0e75b6&style=flat" alt="rashelmahomud" /> </p>
