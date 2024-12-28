@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rashel</h1>
-<img alt="codding" src="https://www.canva.com/design/DAGalpgwEeE/qRMN0QW9XPJmREzePvRzqg/view?utm_content=DAGalpgwEeE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8329260b81">
+<img alt="codding" src="https://i.ibb.co.com/BVgLtbJ/Brown-Wood-Minimalist-Profile-Linked-In-Banner.png">
 
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
