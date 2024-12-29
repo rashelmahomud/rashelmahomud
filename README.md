@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashelmahomud&label=Profile%20views&color=0e75b6&style=flat" alt="rashelmahomud" /> </p>
 
 
-- 🔭 I’m currently working on [Job-Internship (Super-Project)](https://github.com/rashelmahomud/job-intenship)
+- 🔭 I’m currently working on [car-doctor (Super-Project)](https://github.com/rashelmahomud/car-doctor)
 - 🔭 I' have contributed team project [Webb School (Team-project)](https://webb-school-mission-2022.vercel.app/)
 
 
